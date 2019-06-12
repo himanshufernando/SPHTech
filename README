@@ -1,0 +1,15 @@
+SPHTech Mobile Applications Assignment
+
+Technologies and Features
+
+language kotlin and java
+Used android architecture pattern: MVVM with LiveData
+Software Design Patterns Used: Singleton, Observable
+Network: Retrofit with RxJava/RxAndroid
+Offline Request Caching: Retrofit (OkHttp Caching)
+Dependancy Injection: Dagger 2
+Used AndroidX
+Used Animations API
+Material Design, RecyclerView, CardView
+
+Project status: Complete
