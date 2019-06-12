@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Jun 11 22:07:47 IST 2019
+1.base=D\:\\Project\\Android\\SPHTech\\app\\build\\intermediates\\transforms\\r8\\debug\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=D\:\\Project\\Android\\SPHTech\\app\\build\\intermediates\\transforms\\r8\\debug\\0
+1.path=classes2.dex

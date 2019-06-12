@@ -1,0 +1,7 @@
+#Wed Jun 12 03:53:02 IST 2019
+base.0=D\:\\Project\\Android\\SPHTech\\app\\build\\intermediates\\transforms\\r8\\debug\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Project\\Android\\SPHTech\\app\\build\\intermediates\\transforms\\r8\\debug\\0

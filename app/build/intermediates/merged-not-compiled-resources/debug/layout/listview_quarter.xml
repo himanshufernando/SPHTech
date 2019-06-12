@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                                   xmlns:app="http://schemas.android.com/apk/res-auto"
+                                   android:id="@+id/card_view"
+                                   android:layout_width="match_parent"
+                                   android:layout_height="wrap_content"
+                                   android:layout_alignParentTop="true"
+                                   android:layout_centerVertical="true"
+                                   android:layout_marginLeft="5dp"
+                                   android:layout_marginTop="5dp"
+                                   android:layout_marginRight="5dp"
+                                   android:layout_marginBottom="5dp">
+
+    <RelativeLayout
+            android:id="@+id/relativeLayout_main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:elevation="5dp">
+
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_quarter"
+                android:textSize="16sp"
+                android:textColor="#000000"
+                android:text="Q1"
+                android:fontFamily="monospace"
+                android:layout_alignBottom="@+id/textView7"
+                android:layout_toEndOf="@+id/textView7"
+                android:layout_toRightOf="@+id/textView7"
+                android:layout_marginLeft="5dp"/>
+
+        <TextView
+                android:text="QUARTER"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:fontFamily="monospace"
+                android:layout_marginBottom="10dp"
+                android:textColor="#000000"
+                android:id="@+id/textView7"
+                android:layout_marginTop="10dp"/>
+
+
+        <TextView
+                android:text="VOLUME "
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:textColor="#000000"
+                android:fontFamily="monospace"
+                android:layout_alignBottom="@+id/textView_quarter"
+                android:layout_toEndOf="@+id/textView_quarter"
+                android:layout_toRightOf="@+id/textView_quarter"
+                android:layout_marginLeft="25dp"
+                android:id="@+id/textView88"
+        />
+
+
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_volume"
+                android:textSize="16sp"
+                android:textColor="#000000"
+                android:fontFamily="monospace"
+                android:layout_alignBottom="@+id/textView88"
+                android:layout_toEndOf="@+id/textView88"
+                android:layout_toRightOf="@+id/textView88"
+                android:layout_marginLeft="5dp"/>
+
+
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>
+
+
